@@ -16,5 +16,5 @@ Frontend - HTML, CSS, JavaScript
 Backend - JAVA EE, JDK 11, Apache Tomcat 8.5 webserver
   root/webpage/servlets
 
-Deployed using AWS Beanstalk.
 Code and files uploaded from my desktop.
+Deployed using AWS Beanstalk: http://app2-env.eba-eyfkiqm3.us-west-1.elasticbeanstalk.com/
