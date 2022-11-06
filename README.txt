@@ -10,7 +10,7 @@ Invalid input will not be processed further and instead display an error.
 
 Players MUST be older than 18.
 Players may play a MAXIMUM of 5 numbers per day. Players must then wait 24 hours before they can play again.
-Correctly guessed numbers will be indicated by a change in color.
+Correctly guessed numbers will be indicated by a color change.
 A winning number displays a congratulatory message and resets the lottery system.
 
 Frontend - HTML, CSS, JavaScript
