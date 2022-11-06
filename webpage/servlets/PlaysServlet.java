@@ -18,7 +18,7 @@ public class PlaysServlet extends HttpServlet {
 	   
 	   if ((session != null) && (session.getAttribute("plays") == null)) {
 		   session = request.getSession(true);
-		   numPlays = Integer.parseInt(data.trim());	// TO-DO: verify if provided data is in integer format first!
+		   numPlays = Integer.parseInt(data.trim());
 		   
 		   if (numPlays <= 5) {							// verify maximum 5 plays.
 			   session.setAttribute("plays", numPlays);
