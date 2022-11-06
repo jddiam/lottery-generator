@@ -15,8 +15,8 @@ A winning number displays a congratulatory message and resets the lottery system
 Frontend - HTML, CSS, JavaScript
   index.jsp
   
-Backend - JAVA EE, JDK 11, Apache Tomcat 8.5 webserver
-  root/webpage/servlets
+Backend - JAVA EE, JDK 11, Apache Tomcat 8.5 webserver 
+  root/webpage/servlets/
 
 Code and files uploaded from my desktop.
 Deployed using AWS Beanstalk: http://app2-env.eba-eyfkiqm3.us-west-1.elasticbeanstalk.com/
