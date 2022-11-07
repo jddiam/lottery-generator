@@ -2,7 +2,7 @@ README
 
 Lottery Generator
 
-Single Page Application (SPA) for a lottery game system.
+Single Page Application (SPA) for a lottery game system. Uses a responsive front-end design.
 
 System allows users to access the index page (index.jsp) from an updated Google Chrome or Firefox browser.
 Each lottery game starts with a randomly generated winning number. From the index, the user inputs their age, number of times to play, and the series of numbers they wish to play.
