@@ -10,7 +10,7 @@ Invalid input will not be processed further and instead display an error.
 
 User MUST be older than 18.
 User may play a MAXIMUM of 5 numbers per day. User must then wait 24 hours before they can play again.
-Numbers must be between 1 and 49 inclusive.
+Numbers MUST be between 1 and 49 inclusive.
 A winning number displays a congratulatory message and resets the lottery system.
 
 --
