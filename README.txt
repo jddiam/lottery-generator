@@ -25,4 +25,4 @@ Possible enhancements:
   Display a list of previous winners on the webpage.
   
 Code and files uploaded from my desktop.
-Deployed using AWS Beanstalk: http://app2-env.eba-eyfkiqm3.us-west-1.elasticbeanstalk.com/
+Deployed using AWS Beanstalk.
